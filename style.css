@@ -1,0 +1,32 @@
+body {
+  background-color: #000;
+  margin: 0;
+  font-family: 'Courier New', monospace;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.cinema-screen {
+  border: 10px solid #ff0000;
+  padding: 20px;
+  background: #111;
+  box-shadow: 0 0 40px #ff0000;
+  text-align: center;
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #ffcc00;
+  text-shadow: 0 0 10px #ffcc00;
+  margin-bottom: 20px;
+}
+
+.video-container {
+  border: 5px solid #444;
+  box-shadow: 0 0 20px #888;
+  border-radius: 10px;
+}
